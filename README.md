@@ -1,6 +1,6 @@
 # [KHChess.ai](https://tvercv.com/u/keo_pichyvoin)
 
-## **Inspiring with 💙 by [Motia] and modified by [KEO PICHYVOIN] (https://tvercv.com/u/keo_pichyvoin)** – This repository serves as a practical example of what Motia can do. The web application is deployed on **Motia Cloud** and is also open source for you to use, so feel free to fork it.
+## **Inspiring with 💙 by [Motia] and modified by [KEO PICHYVOIN](https://tvercv.com/u/keo_pichyvoin)** – This repository serves as a practical example of what Motia can do. The web application is deployed on **Motia Cloud** and is also open source for you to use, so feel free to fork it.
 
 **KHChess.ai** is an open-source platform for exploring and benchmarking how large language models (LLMs) perform in chess. Rather than focusing on simple win/loss results, KHChess.ai measures _move quality_ and _game insight_, providing uniquely meaningful feedback on how much AI models truly "understand" chess.
 
